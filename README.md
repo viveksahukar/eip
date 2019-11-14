@@ -1,0 +1,2 @@
+# eip
+eip ai course
